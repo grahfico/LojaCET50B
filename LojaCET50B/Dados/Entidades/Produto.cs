@@ -16,7 +16,7 @@ namespace LojaCet50B.Dados.Entidades
         public decimal Preco { get; set; }
 
 
-        [Display(Name = "Image")]
+        [Display(Name = "Imagem")]
         public string UrlDaImagem { get; set; }
 
 
